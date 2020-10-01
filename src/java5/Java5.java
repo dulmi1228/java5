@@ -27,10 +27,9 @@ public class Java5 {
     /* If number is divisible by 2 then it's an even number
      * else odd number*/
     if ( num % 2 == 0 )
-        System.out.println("Entered number is even");
-     else
-        System.out.println("Entered number is odd");
+        System.out.println("Entered Number is Even");
+    else
+        System.out.println("Entered Number is Odd");
         // TODO code application logic here
     }
-    
 }
